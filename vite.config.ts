@@ -5,7 +5,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/ellie_meltzer_website/",
+  base: "/elliemeltzer.github.io/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
