@@ -240,13 +240,6 @@ export default function ESGVvsVTIResearch() {
             </CardContent>
           </Card>
 
-          {/* LINKS */}
-          <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
-            <h3 className="text-xl font-bold text-gray-900">Project Links</h3>
-
-            <div className="mt-5 flex flex-wrap gap-3">
-              <Button variant="outline">GitHub Repo</Button>
-            </div>
           </div>
         </div>
       </section>
