@@ -21,7 +21,7 @@ export default function Research() {
       href: "/research/ESGV_vs._VTI",
     },
     {
-      title: "Research Topic 2",
+      title: "title",
       description: "description.",
       image: "/research2.jpg",
       category: "category",
@@ -30,7 +30,7 @@ export default function Research() {
       href: "",
     },
     {
-      title: "Your Research Title Here",
+      title: "title",
       description:
         "description",
       image: "/research3.jpg",
